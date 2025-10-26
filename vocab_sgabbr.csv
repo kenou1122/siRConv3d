@@ -1,0 +1,34 @@
+Abbreviation,Chemical Name,single_abbr,deModi_sgabbr,modil_label_int
+A,adenosine-3'-phosphate,A,A,1
+C,cytidine-3'-phosphate,C,C,1
+G,guanosine-3'-phosphate,G,G,1
+P,5'-phosphate,P,P,
+U,uridine-3'-phosphate,U,U,1
+a,2'-O-methyladenosine-3'-phosphate,a,A,3
+c,2'-O-methylcytidine-3'-phosphate,c,C,3
+g,2'-O-methylguanosine-3'-phosphate,g,G,3
+s,phosphorothioate linkage,s,S,
+t,2'-O-methyl-5-methyluridine-3'-phosphate,t,T,3
+u,2'-O-methyluridine-3'-phosphate,u,U,3
+Af,2'-fluoroadenosine-3'-phosphate,!,A,2
+Cf,2'-fluorocytidine-3'-phosphate,@,C,2
+Gf,2'-fluoroguanosine-3'-phosphate,#,G,2
+Uf,2'-fluorouridine-3'-phosphate,$,U,2
+VP,vinyl-phosphonate,%,V,
+dA,2'-deoxyadenosine-3'-phosphate,^,A,0
+dC,2'-deoxycytidine-3'-phosphate,&,C,0
+dG,2'-deoxyguanosine-3'-phosphate,*,G,0
+dT,2'-deoxythimidine-3'-phosphate,~,T,0
+L96,N-[tris(GalNAc-alkyl)-amidodecanoyl)]-4-hydroxyprolinol,`,L,
+(A2p),adenosine-2'-phosphate,-,A,4
+(Agn),adenosine-glycol nucleic acid,_,A,5
+(Ahd),2'-O-hexadecyl-adenosine-3'-phosphate,+,A,6
+(C2p),cytidine-2'-phosphate,=,C,4
+(Cgn),cytidine-glycol nucleic acid,{,C,5
+(Chd),2'-O-hexadecyl-cytidine-3'-phosphate,[,C,6
+(G2p),guanosine-2'-phosphate,},G,4
+(Ggn),guanosine-glycol nucleic acid,],G,5
+(Ghd),2'-O-hexadecyl-guanosine-3'-phosphate,:,G,6
+(Tgn),thymidine-glycol nucleic acid,;,T,5
+(U2p),uridine-2'-phosphate,<,U,4
+(Uhd),2'-O-hexadecyl-uridine-3'-phosphate,>,U,6
